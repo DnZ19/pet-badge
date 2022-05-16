@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+*   {
+    box-sizing: border-box;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+    padding-top: 32px;
+}
+
+article {
+    display: inline-block;
+    background-color: #EDD7C4;
+    border-radius: 5px;
+
+
+}
+
+.shape  {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.60);
+}
+
+img {
+    width: 300px;
+    border-radius: 50%;
+    border: 8px solid #B4695E;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+h2  {
+    font-family: 'Oleo Script Swash Caps', "Times New Roman", cursive;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #B4695E;
+
+
+}
