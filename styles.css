@@ -8,19 +8,15 @@
     padding-top: 32px;
 }
 
-article {
+.pet-badge {
     display: inline-block;
     background-color: #EDD7C4;
     border-radius: 5px;
-
-
-}
-
-.shape  {
+    padding: 32px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.60);
 }
 
-img {
+.pet-image {
     width: 300px;
     border-radius: 50%;
     border: 8px solid #B4695E;
@@ -28,14 +24,12 @@ img {
     margin-bottom: 10px;
 }
 
-h2  {
+.pet-name {
     font-family: 'Oleo Script Swash Caps', "Times New Roman", cursive;
     font-size: 60px;
     text-align: center;
     margin: 0;
-    padding-top: 0;
-    padding-bottom: 0;
+    /*padding-top: 0;*/
+    /*padding-bottom: 0;*/
     color: #B4695E;
-
-
 }
